@@ -283,7 +283,7 @@
 	
 	var flightData = new Object();
 	//var port = chrome.runtime.connect('hemahponoooggniochchkkbldlgkdaga',{name: "LiteBee"});
-	var port = chrome.runtime.connect('ojkmijfhdabdfcifimpafffjhjoknaki',{name: "LiteBee"});
+	var port = chrome.runtime.connect('ojkmijfhdabdfcifimpafffjhjoknaki',{name: "benben"});
 	//port.postMessage({joke: "Knock knock"});
 	port.onMessage.addListener(function(msg) {
 		if (msg.greeting == "hello")
