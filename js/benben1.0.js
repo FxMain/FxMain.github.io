@@ -384,11 +384,11 @@
         blocks: blocks[lang],
         menus: menus[lang],
 
-        url: 'http://www.litebee.com/'
+        url: 'http://www.benben.com/'
     };
 
     // Register the extension
-    ScratchExtensions.register('litebee', descriptor, ext);
+    ScratchExtensions.register('benben', descriptor, ext);
 
 })({});
 
