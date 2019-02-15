@@ -17,7 +17,7 @@
 	var lang = 'zh';
 	var blocks = {
 		en:[
-			[' ', 'Cali2brate', 'calibrate'],
+			[' ', 'Calibrate', 'calibrate'],
             [' ', 'LED %d.led %d.onoff','runLed','ALL','ON'],
 			[' ', 'colorLight %d.color','colorLed','BLACK'],
 			[' ', 'buzzer buzz %d.beep','beeper',"OFF"],
